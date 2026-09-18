@@ -311,13 +311,8 @@ See `requirements.txt` for version-pinned package list.
 
 ## Author
 
-**Sarvesh Kumar Sharma**
+**Aman Kumar Mishra**
 
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+- GitHub: [@AKM](https://github.com/Amankumarm2002)
+- LinkedIn: [in/Aman Kumar Mishra](https://www.linkedin.com/in/aman-kumar-mishra2002)
 
----
-
-<p align="center">
-  <a href="../README.md">← Back to repository root</a>
-</p>
