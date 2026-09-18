@@ -314,5 +314,5 @@ See `requirements.txt` for version-pinned package list.
 **Aman Kumar Mishra**
 
 - GitHub: [@AKM](https://github.com/Amankumarm2002)
-- LinkedIn: [in/Aman Kumar Mishra](https://www.linkedin.com/in/aman-kumar-mishra2002)
+- LinkedIn: [Aman Kumar Mishra](https://www.linkedin.com/in/aman-kumar-mishra2002)
 
